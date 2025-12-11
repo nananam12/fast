@@ -6,7 +6,7 @@ pipeline {
         
         // GitHub 계정정보. 본인껄로 넣으세요!!
         GIT_TARGET_BRANCH = 'main'
-        GIT_REPOSITORY_URL = 'https://github.com/nananm12/fast'
+        GIT_REPOSITORY_URL = 'https://github.com/nananam12/fast'
         GIT_CREDENTIONALS_ID = 'git_cre'
         
         GIT_EMAIL = 'namgyu2001@naver.com'
